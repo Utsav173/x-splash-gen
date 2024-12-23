@@ -1,0 +1,18 @@
+/* customise scrollbar of app */
+*::-webkit-scrollbar {
+  width: 7px;
+}
+*::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+*::-webkit-scrollbar-thumb {
+  background: #414141;
+  border-radius: 5px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: #646464;
+}
+
+.main-div {
+  background: transparent;
+}
