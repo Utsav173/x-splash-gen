@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://x-splash-gen.onrender.com';
 
 export const URL = {
   LOGIN: `${BASE_URL}/users/login`,
